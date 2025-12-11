@@ -4,7 +4,7 @@ Enterprise style support for running a web accessible Linux desktop using Docker
 
 This repo provides a simple Docker Compose stack to launch a full Linux desktop environment accessible in your browser. It’s ideal for remote access, testing, or lightweight cloud desktop deployments.
 
-Powered by linuxserver/webtop — a multi-desktop container supporting XFCE, MATE, KDE, and more. 
+Powered by linuxserver/webtop a multi-desktop container supporting XFCE, MATE, KDE, and more. 
 GitHub
 
 <img width="1677" height="1004" alt="Screenshot 2025-12-11 at 11 50 27 AM" src="https://github.com/user-attachments/assets/7acfbed2-e133-4f65-a00b-62aab9bbeeba" />
