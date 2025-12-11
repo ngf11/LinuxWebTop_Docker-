@@ -1,6 +1,6 @@
 LinuxWebTop Docker Deployment
 
-Enterprise-style support for running a web accessible Linux desktop using Docker and LinuxServer’s Webtop container.
+Enterprise style support for running a web accessible Linux desktop using Docker and LinuxServer’s Webtop container.
 
 This repo provides a simple Docker Compose stack to launch a full Linux desktop environment accessible in your browser. It’s ideal for remote access, testing, or lightweight cloud desktop deployments.
 
